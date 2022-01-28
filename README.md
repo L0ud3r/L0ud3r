@@ -1,7 +1,7 @@
 ### Welcome to my profile!! 👋
 
 - 🔭 I’m currently working on improving my code
-- 🌱 Completing a Informatic Systems Degree
+- 🌱 Completing a Informatic Systems Engineering Degree
 - 😄 Pronouns: L0ud3r
 - 📫 How to reach me:
 <div style="display: inline_block">
