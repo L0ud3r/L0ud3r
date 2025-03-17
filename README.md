@@ -1,8 +1,9 @@
 ### Welcome to my profile!! 👋👋
 
 - 🔭 I’m currently working on improving my code
-- 🌱 Completing a Informatic Systems Engineering Degree
-- 😄 Pronouns: L0ud3r
+- 🌱 Completed an Informatic Systems Engineering Degree
+- 👜 Currently working at 4DevCoding
+- 😄 Nickname: L0ud3r/Simeos
 - 📫 How to reach me:
 <div style="display: inline_block">
   <a href="https://www.instagram.com/pedrosimoes_05/" target="_blank"><img align="center" alt="Instagram" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" target="_blank">
