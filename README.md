@@ -30,6 +30,5 @@
 ### Git Stats:
 <div align="center">
   <a href="https://github.com/L0ud3r">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=L0ud3r&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0ud3r&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
